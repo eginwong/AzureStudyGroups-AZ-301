@@ -1,6 +1,6 @@
 # Design a Data Platform Solution (15-20%)
 
-*Consider completing this course on OpenEdx: [Designing a Data Platform Solution](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-301.2+2019_T1/course/).*
+*Consider completing this course on OpenEdx: ~~[Designing a Data Platform Solution](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-301.2+2019_T1/course/).*~~
 
 *Also consider reading the [Azure Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/).*
 
