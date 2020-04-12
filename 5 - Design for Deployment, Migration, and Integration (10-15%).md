@@ -1,6 +1,6 @@
 # Design for Deployment, Migration, and Integration aka Know How to Design Anything in Azure (10-15%)
 
-Given how broad this chapter is you may want to review the massive [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/).
+Given how broad this chapter is you may want to review the massive ~~[Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)~~.
 
 ## Design Deployments
 
@@ -13,7 +13,7 @@ Design a compute, container, data platform, messaging solution, storage, and web
     * [What is Azure Container Instances?](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview)
     * [Deployment Strategies Defined](http://blog.itaysk.com/2017/11/20/deployment-strategies-defined)
   * Data platform
-    * [Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/data-guide/)
+    * ~~[Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/data-guide/)~~ DUPLICATE
   * Messaging solution
     * [What are Azure Queues?](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction)
   * Storage
@@ -25,7 +25,7 @@ Design a compute, container, data platform, messaging solution, storage, and web
     * [Improve scalability in an Azure web application](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app)
     * [Multitier web application built for high availability and disaster recovery on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/multi-tier-app-disaster-recovery)
   * Service deployment strategy
-    * [Azure Strategy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/en-us/)
+    * ~~[Azure Strategy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/en-us/)~~ DUPLICATE
     * [What is Azure Logic Apps?](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
     * [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
     * [WebJobs in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/webjobs-create)
@@ -54,5 +54,5 @@ Design a compute, container, data platform, messaging solution, storage, and web
 * [Design an API gateway strategy](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 * [Determine policies for internal and external consumption of APIs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation)
 * Recommend a hosting structure for API management
-  * [API Management access restriction policies](https://docs.microsoft.com/en-us/azure/api-management/api-management-access-restriction-policies)
-  * [Advanced request throttling with Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling)
+  * ~~[API Management access restriction policies](https://docs.microsoft.com/en-us/azure/api-management/api-management-access-restriction-policies)~~
+  * ~~[Advanced request throttling with Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling)~~
